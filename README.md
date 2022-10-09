@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things web
 - 🌱 I’m currently learning all things web
 - 💞️ I’m looking to collaborate on all things web
-- 📫 How to reach me on the web
+- 📫 Reach me on the web
 
 <!---
 justinv416/justinv416 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
