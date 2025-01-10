@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justinv416
+- 👋 Hi, I’m Justin
 - 👀 I’m interested in all things web
 - 🌱 I’m currently learning all things web
 - 💞️ I’m looking to collaborate on all things web
